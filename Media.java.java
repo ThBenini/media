@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Juca {
+public class Media {
     public static void main(String[] args) {
         Scanner ler = new Scanner (System.in);
 
